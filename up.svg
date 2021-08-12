@@ -1,0 +1,12 @@
+<svg width="500" height="700" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150">
+ <defs>
+  <linearGradient id="gradient">
+   <stop stop-color="#9900efff" offset="5%"/>
+   <stop stop-color="#0693e3ff" offset="95%"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path transform="rotate(119.894 105.924 -169.713)" stroke="null" id="svg_1" class="transition-all duration-300 ease-in-out delay-150" fill="url(#gradient)" stroke-width="0" d="m-630.66682,290.19296c0,0 0,-698.34632 0,-698.34632c196.15131,37.7772 392.30264,75.55443 558.58112,15.9622c166.27848,-59.59223 302.68413,-216.55386 450.13863,-235.44247c147.4545,-18.88861 305.95787,100.29584 464.46122,219.48027c0,0 0,698.34632 0,698.34632l-1473.18097,0z"/>
+ </g>
+</svg>
